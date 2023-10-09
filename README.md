@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dharm Joshi</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [CleverPush / CleverPush Api](https://app.cleverpush.com)
+- 🔭 I’m currently working at Openxcell Technolabs
 
 - 🌱 I’m currently learning **Devops and Microservices**
 
